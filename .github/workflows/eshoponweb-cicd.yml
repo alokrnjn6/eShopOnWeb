@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-NAME
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: YOUR-SUBS-ID
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  SUBSCRIPTION-ID: 1c78a6b0-567b-4063-a8c1-472beb129267
+  WEBAPP-NAME: eshoponweb-webapp-alokrnjn6
 
 
 jobs:
